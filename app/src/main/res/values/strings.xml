@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Flkrr Image Search</string>
+    <string name="default_description">Searched Photo</string>
+    <string name="search_box_hint">Search</string>
+    <string name="go_back">Go Back</string>
+</resources>
